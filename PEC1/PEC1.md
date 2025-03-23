@@ -1,7 +1,5 @@
 
-title: 'Minería de datos: PEC1'
-author: "Autor: Ana Valero Giraldez"
-date: "Febrero 2025"
+Minería de datos: PEC1           Ana Valero Giraldez                 Febrero 2025
 
 ****
 # Ejercicio 1

@@ -1,27 +1,7 @@
----
+
 title: 'Minería de datos: PEC1'
 author: "Autor: Ana Valero Giraldez"
 date: "Febrero 2025"
-output:
-  pdf_document:
-    highlight: zenburn
-    toc: yes
-  html_document:
-    highlight: default
-    number_sections: yes
-    theme: cosmo
-    toc: yes
-    toc_depth: 2
-    includes:
-      in_header: 75.584-PEC-header.html
-  word_document: default
----
-
-```{r setup, include=FALSE}
-
-knitr::opts_chunk$set(echo = TRUE)
-
-```
 
 ****
 # Ejercicio 1
